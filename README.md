@@ -13,6 +13,7 @@ Compilations do not ends, process continue to consume CPU.
 
 ## Test conditions
 
-- node 8.0.0
-- typescript 2.4.1
+- NodeJS 8.0.0
+- TypeScript 2.4.1
 - Windows 10
+- Tested also on Travis.CI: Linux container, Debian, NodeJS 8.0
