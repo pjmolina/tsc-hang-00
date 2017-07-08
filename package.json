@@ -1,0 +1,14 @@
+{
+  "name": "tsc-hang-00",
+  "version": "1.0.0",
+  "description": "Importing a big JS file hangs tsc",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
